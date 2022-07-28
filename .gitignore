@@ -2,3 +2,8 @@
 .idea/
 venv/
 data/
+mean_cell_etr_data/
+cell_etr_data/
+event_triggered_response.py
+multiscope_experiment_table_filtered.csv
+__pycache__/event_triggered_response.cpython-39.pyc
